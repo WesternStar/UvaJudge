@@ -1,0 +1,7 @@
+[
+    {
+        "command": "c++ -c --std=c++14 /home/west/code/competition_programming/uva_462/main.cpp",
+        "directory": "/home/west/code/competition_programming/uva_462",
+        "file": "/home/west/code/competition_programming/uva_462/main.cpp"
+    }
+]
